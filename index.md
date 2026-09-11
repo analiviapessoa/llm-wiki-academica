@@ -11,3 +11,4 @@
 
 - raw/atividades/atividade-01-opencode.md — Dados sobre OpenCode e geração de planos
 - raw/atividades/atividade-02-hermes.md — Dados sobre configuração do Hermes Desktop
+- raw/aulas/anotacao-agentes.md — Anotação de aula sobre definição de agentes
